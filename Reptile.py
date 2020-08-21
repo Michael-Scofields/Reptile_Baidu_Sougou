@@ -121,7 +121,7 @@ if __name__ == '__main__':
     # search_item = ["赌博", "博彩", "时时彩", "六合彩", "太阳神", "黑彩", "快彩", "七星彩", "七乐彩"]
     search_item = ["赌博", "博彩", "时时彩", "六合彩", "香港赛马会", "北京赛车", "草榴" ]
     src_item = ["xxx", "xxx", "xxx", "xxx", "xxx"]
-    exc_item = ["xxx", "xxxx", "xxxxx"]
+    exc_item = ["xxx", "xxxx"]
     head_sougou = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.22 Safari/537.36 SE 2.X MetaSr 1.0',\
         }
